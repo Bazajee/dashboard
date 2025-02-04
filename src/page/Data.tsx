@@ -30,6 +30,11 @@ function DataPage () {
                         </button>
                     </div>
                 </div>
+                <div className="m-3 font-semibold text-blue-600">
+                    <p className="text-left">
+                        Data format must be an integer followed by a comma. For example: 12,3,83,4
+                    </p>
+                </div>
                     { addDataSet ?
                         <AddDataSetCard 
                             setAddDataSet={setAddDataSet}

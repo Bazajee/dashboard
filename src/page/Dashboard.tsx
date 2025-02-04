@@ -30,7 +30,7 @@ const Dashboard = () => {
                <GlobalAmount data={storedData} />
             </div>
          </div>
-         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-3">
+         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3">
             <PieChart data={storedData} />
          </div>
       </div>
