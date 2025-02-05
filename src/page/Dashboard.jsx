@@ -1,5 +1,5 @@
 
-import CountDataSet from "../component/ChartCard/countDataSet"
+import CountDataSet from "../component/ChartCard/CountDataSet"
 import AverageDataSetLentgh from "../component/ChartCard/AverageDataSet"
 import GlobalAmount from "../component/ChartCard/GobalAmout"
 import BarChart from "../component/Chart/BarChart"
