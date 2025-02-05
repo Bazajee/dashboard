@@ -1,4 +1,4 @@
-import Card from './Card.tsx'
+import Card from './Card.jsx'
 import { Data } from '../../appState/dataState.tsx'
 
 

@@ -31,9 +31,6 @@ return (
           Get Started
         </button>
     </div>
-    <div className="bg-blue-500 text-white p-6">
-        Tailwind CSS is working!
-    </div>
 </>
 )}
 

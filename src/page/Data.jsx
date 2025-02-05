@@ -46,7 +46,7 @@ function DataPage () {
                     {storedData
                         .slice()
                         .reverse()
-                        .map((dataSet: Object) => (
+                        .map((dataSet) => (
                             <div
                                 key={dataSet.id}
                             >
